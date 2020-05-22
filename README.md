@@ -1,0 +1,1 @@
+This is Franciska's first git project!
